@@ -14,3 +14,4 @@ Hunting-Rabbit-PortScanner的go版本，更快速
         Maximum number of worker threads for the scan (default 100)
 ```
 
+改bug中，后续工具不考虑转go
